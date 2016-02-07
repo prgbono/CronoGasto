@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ppal">#4ECDC4</color>
+    <color name="gasto">#DB3E3E</color>
+    <color name="ingreso">#C7F464</color>
+    <color name="negro">#000</color>
+    <color name="blanco">#fff</color>
+    <color name="transparente">#BCBCBC</color>
+    <color name="gastos_activado">#8C2318</color>
+    <color name="ingresos_activado">#5E8C6A</color>
+
+
+</resources>
